@@ -26,7 +26,8 @@ To test on a single image,
 
 ## Pre-trained model
 
-The pre-trained model is "D2Net.h5"
+The pre-trained model is "D2Net.h5". It can be downloaded via the links below:
+- [D2Net.h5](https://drive.google.com/file/d/1bpj9pCcZR_6-AHb5aNnev5lILQbH8GMZ/view)
 
 ## Remarks
 
